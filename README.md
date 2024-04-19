@@ -1,6 +1,6 @@
 # weatherapp02
 
-A new Flutter project.
+This is a full working weather app made using REST API by me.Written using Flutter & Dart.
 
 ## Getting Started
 
